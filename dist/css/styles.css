@@ -1,0 +1,13 @@
+html{
+  background: #CAE8FF
+}
+h1 {
+Color: #2A485F;
+text-transform: uppercase;
+font-style: oblique;
+text-align: center;
+font-weight: lighter;
+font-size: 50px;
+padding-top: 1em;
+font-family: courier;
+}
