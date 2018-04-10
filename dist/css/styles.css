@@ -1,5 +1,5 @@
 html{
-  background: #CAE8FF
+  background: #CAE8FF;
 }
 h1 {
 Color: #2A485F;
@@ -21,6 +21,14 @@ h2 {
 ul{
   color: black;
   text-align: center;
+}
+header-img{
+  position: center;
+  max-width: 100%
+}
+mapofbath{
+  position: right;
+  
 }
 .Days > ul {
     list-style-type: none;
