@@ -22,12 +22,12 @@ ul{
   color: black;
   text-align: center;
 }
-header-img{
+.header-img{
   position: center;
   width: 100%;
-  max-width: 50vw;
+  max-width: 100%;
 }
-mapofbath {
+.mapofbath {
   border-radius: 8px;
 
 }
