@@ -26,9 +26,9 @@ header-img{
   position: center;
   max-width: 100%
 }
-mapofbath{
-  position: right;
-  
+mapofbath {
+  border-radius: 8px;
+
 }
 .Days > ul {
     list-style-type: none;
